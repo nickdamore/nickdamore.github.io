@@ -1,0 +1,10 @@
+# Site settings
+title: Nick's website
+email: damorenick@gmail.com 
+description: Nick works in I.T.
+url: nickdamore.github.io
+github_username: nickdamore
+
+# Build settings
+markdown: kramdown
+permalink: pretty
